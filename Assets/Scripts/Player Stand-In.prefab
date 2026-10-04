@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74df5ce96e11ca241861cd7fbaa3dc3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawning
-  enemyPrefab: {fileID: 8476720639828693856, guid: 5ef2582aef301244e915b5b9d4ed9f66, type: 3}
+  enemyPrefab: {fileID: 8476720639828693856, guid: f62cee53fed97ab42a4f2079b47336a4, type: 3}
   spawnInterval: 0.2
   spawnDistanceMin: 2
   spawnDistanceMax: 4
