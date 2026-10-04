@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 guid: 472bf35c1f8928f459372c0920d01ed2
+guid: 1a58bb572e1db2444ae267565fc6beec
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -164,6 +165,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 625
+        y: 2329
+        width: 441
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,6 +193,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 1292
+        y: 2332
+        width: 507
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,6 +221,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 1997
+        y: 2329
+        width: 507
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,6 +249,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 2680
+        y: 2329
+        width: 466
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,6 +277,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 3353
+        y: 2329
+        width: 466
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,6 +305,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 625
+        y: 1761
+        width: 441
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,6 +333,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 1292
+        y: 1764
+        width: 507
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,6 +361,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 1997
+        y: 1761
+        width: 507
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,6 +389,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 2680
+        y: 1761
+        width: 466
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,6 +417,12 @@ TextureImporter:
         height: 627
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+        x: 3353
+        y: 1761
+        width: 466
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -379,6 +440,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 1e7734afe89fc9f4087c2ddc632a70a9
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -389,6 +451,7 @@ TextureImporter:
       entries:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":677.0,"y":627.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       '[CGP] ZooMob_Spider_SpriteSheet_0': 2041612500642076717
       '[CGP] ZooMob_Spider_SpriteSheet_1': 237084375533698931
