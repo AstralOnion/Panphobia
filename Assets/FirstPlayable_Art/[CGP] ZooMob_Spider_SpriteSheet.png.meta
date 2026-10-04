@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+guid: 472bf35c1f8928f459372c0920d01ed2
 guid: 1a58bb572e1db2444ae267565fc6beec
 TextureImporter:
   internalIDToNameTable:
@@ -138,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -145,6 +159,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_0'
       rect:
         serializedVersion: 2
+        x: 0
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 625
         y: 2329
         width: 441
@@ -167,6 +187,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_1'
       rect:
         serializedVersion: 2
+        x: 677
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 1292
         y: 2332
         width: 507
@@ -189,6 +215,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_2'
       rect:
         serializedVersion: 2
+        x: 1354
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 1997
         y: 2329
         width: 507
@@ -211,6 +243,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_3'
       rect:
         serializedVersion: 2
+        x: 2031
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 2680
         y: 2329
         width: 466
@@ -233,6 +271,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_4'
       rect:
         serializedVersion: 2
+        x: 2708
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 3353
         y: 2329
         width: 466
@@ -255,6 +299,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_5'
       rect:
         serializedVersion: 2
+        x: 0
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 625
         y: 1761
         width: 441
@@ -277,6 +327,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_6'
       rect:
         serializedVersion: 2
+        x: 677
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 1292
         y: 1764
         width: 507
@@ -299,6 +355,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_7'
       rect:
         serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 1997
         y: 1761
         width: 507
@@ -321,6 +383,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_8'
       rect:
         serializedVersion: 2
+        x: 2031
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 2680
         y: 1761
         width: 466
@@ -343,6 +411,12 @@ TextureImporter:
       name: '[CGP] ZooMob_Spider_SpriteSheet_9'
       rect:
         serializedVersion: 2
+        x: 2708
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
         x: 3353
         y: 1761
         width: 466
@@ -365,6 +439,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+    spriteID: 1e7734afe89fc9f4087c2ddc632a70a9
     spriteID: 
     internalID: 0
     vertices: []
@@ -373,6 +448,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":677.0,"y":627.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
       entries: []
     nameFileIdTable:
       '[CGP] ZooMob_Spider_SpriteSheet_0': 2041612500642076717
