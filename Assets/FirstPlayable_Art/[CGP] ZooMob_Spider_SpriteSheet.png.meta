@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 472bf35c1f8928f459372c0920d01ed2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2041612500642076717
+    second: '[CGP] ZooMob_Spider_SpriteSheet_0'
+  - first:
+      213: 237084375533698931
+    second: '[CGP] ZooMob_Spider_SpriteSheet_1'
+  - first:
+      213: -144869564121805512
+    second: '[CGP] ZooMob_Spider_SpriteSheet_2'
+  - first:
+      213: 947760614244519420
+    second: '[CGP] ZooMob_Spider_SpriteSheet_3'
+  - first:
+      213: 9014384876944592587
+    second: '[CGP] ZooMob_Spider_SpriteSheet_4'
+  - first:
+      213: -4978599761007491665
+    second: '[CGP] ZooMob_Spider_SpriteSheet_5'
+  - first:
+      213: -1449351716726027850
+    second: '[CGP] ZooMob_Spider_SpriteSheet_6'
+  - first:
+      213: -7669865552445242426
+    second: '[CGP] ZooMob_Spider_SpriteSheet_7'
+  - first:
+      213: 8226735932321865347
+    second: '[CGP] ZooMob_Spider_SpriteSheet_8'
+  - first:
+      213: 1425025423393051539
+    second: '[CGP] ZooMob_Spider_SpriteSheet_9'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2894cd90c3455c10800000000000000
+      internalID: 2041612500642076717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_1'
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f3b71cbfa4a4300800000000000000
+      internalID: 237084375533698931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_2'
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d01c326e15dfdf0800000000000000
+      internalID: -144869564121805512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_3'
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd8628d14f172d00800000000000000
+      internalID: 947760614244519420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_4'
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 627
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce8fea0947891d70800000000000000
+      internalID: 9014384876944592587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_5'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5cd4625e578eab0800000000000000
+      internalID: -4978599761007491665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_6'
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b941f9ea4ed2ebe0800000000000000
+      internalID: -1449351716726027850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_7'
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c30f7faae92f8590800000000000000
+      internalID: -7669865552445242426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_8'
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e9cfa4ebc3b2270800000000000000
+      internalID: 8226735932321865347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CGP] ZooMob_Spider_SpriteSheet_9'
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 0
+        width: 677
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935e3d8215b6c310800000000000000
+      internalID: 1425025423393051539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e7734afe89fc9f4087c2ddc632a70a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":677.0,"y":627.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      '[CGP] ZooMob_Spider_SpriteSheet_0': 2041612500642076717
+      '[CGP] ZooMob_Spider_SpriteSheet_1': 237084375533698931
+      '[CGP] ZooMob_Spider_SpriteSheet_2': -144869564121805512
+      '[CGP] ZooMob_Spider_SpriteSheet_3': 947760614244519420
+      '[CGP] ZooMob_Spider_SpriteSheet_4': 9014384876944592587
+      '[CGP] ZooMob_Spider_SpriteSheet_5': -4978599761007491665
+      '[CGP] ZooMob_Spider_SpriteSheet_6': -1449351716726027850
+      '[CGP] ZooMob_Spider_SpriteSheet_7': -7669865552445242426
+      '[CGP] ZooMob_Spider_SpriteSheet_8': 8226735932321865347
+      '[CGP] ZooMob_Spider_SpriteSheet_9': 1425025423393051539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
