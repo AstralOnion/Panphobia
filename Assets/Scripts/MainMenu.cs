@@ -3,17 +3,17 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void LoadScene(string sceneName)
+    public void StartGame()
     {
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene("ZoophobiaFirstPlayable");
     }
 
     public void Quit()
     {
-        #if UNITY_EDITOR
+#if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
-        #else
+#else
         Application.Quit();
-        #endif
+#endif
     }
 }
