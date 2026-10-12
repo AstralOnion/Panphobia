@@ -44515,6 +44515,23 @@ MonoBehaviour:
   spawnDistanceMin: 6
   spawnDistanceMax: 6
   enemyLifetime: 10
+--- !u!114 &1241059221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241059205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74df5ce96e11ca241861cd7fbaa3dc3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySpawning
+  enemyPrefab: {fileID: 8476720639828693856, guid: c42e6e377b51d924ab2755dd74f8d68d, type: 3}
+  spawnInterval: 6
+  spawnDistanceMin: 8
+  spawnDistanceMax: 8
+  enemyLifetime: 15
 --- !u!1 &1283034097
 GameObject:
   m_ObjectHideFlags: 0
@@ -52801,6 +52818,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 687785986883577734, guid: 704c612bb35eeee4ca16a353ac0e795e, type: 3}
       insertIndex: 2
       addedObject: {fileID: 1241059214}
+    - targetCorrespondingSourceObject: {fileID: 687785986883577734, guid: 704c612bb35eeee4ca16a353ac0e795e, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 1241059221}
     - targetCorrespondingSourceObject: {fileID: 687785986883577734, guid: 704c612bb35eeee4ca16a353ac0e795e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1241059212}
